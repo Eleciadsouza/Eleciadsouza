@@ -17,7 +17,7 @@ I turn business questions into queries, and queries into dashboards people actua
 <br>
 
 <p align="center">
-  <img src="assets/toolkit.png" alt="Toolkit: SQL, Python, Power BI, Dashboarding" width="100%" height="90">
+  <img src="assets/toolkit.png" alt="Toolkit: SQL, Python, Power BI, Dashboarding" width="100%" height="100">
 </p>
 
 <!--
